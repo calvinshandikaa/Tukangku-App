@@ -5,4 +5,4 @@
   <br>
   <br>
   # Sinopsis<br>
-  TukangKu adalah sebuah Aplikasi Yang Menyediakan Layanan Untuk Memesan Jasa Apa Saja Secara Online Dan Untuk memudahkan Para Orang Untuk Menawarkan Jasanya Secara Online
+  Utuberent adalah sebuah apkilasi bertemakan ecomerce dimana aplikasi ini menyediakan penjualan kamera dimana di page pertama menjual kamera dslr dan di page 2 menjual kamera mirrorlles
