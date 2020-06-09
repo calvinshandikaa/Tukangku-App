@@ -1,7 +1,7 @@
 TUKANGKU <BR>
   NAMA : Calvin Shandika <br>
   Nim : 20175520016 <br>
-  Prodi : 20175520016 <br>
+  Prodi : Teknik Informatika <br>
   <br>
   <br>
   Sinopsis<br>
